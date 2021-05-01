@@ -1,3 +1,4 @@
+//This is a filterscript 
 #include <a_samp>
 
 public OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
